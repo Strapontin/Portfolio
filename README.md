@@ -1,6 +1,6 @@
 # About Strapontin
 
-I am an independant Security Researcher in Solidity. I am always looking for new opportunities, may it be a job opening, private security audit...
+I am an independant Security Researcher in Solidity. While I entered in the field as an SR, I am also really interested in the Smart Contract Developer side of things, and have a few plans of projects to build. I am always looking for new opportunities, may it be a job opening, private security audit...
 
 ## Contact informations
 
@@ -18,6 +18,7 @@ I am an independant Security Researcher in Solidity. I am always looking for new
 
 | Contest name                                                          | Platform  | Date ↓        | Rank      | Findings         |
 | --------------------------------------------------------------------- | --------- | ------------- | --------- | ---------------- |
+| [Alchemix V3](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a) | Cantina | May 2025 | Judging | Judging |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682)             | Sherlock  | January 2025  | 54 / 2450 | 3 High, 2 Medium |
 | [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix) | CodeHawks | December 2024 | 15 / 123  | 1 Medium, 1 Low  |
 | [Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)         | CodeHawks | October 2024  | 4 / 21    | 1 Low            |
@@ -27,7 +28,7 @@ I am an independant Security Researcher in Solidity. I am always looking for new
 
 | Audited Company                       | Date       | Report              |
 | ------------------------------------- | ---------- | ------------------- |
-| [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in April_ |
+| [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in June_ |
 
 ## Findings I'm proud of
 
