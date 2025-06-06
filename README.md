@@ -16,18 +16,19 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 
 ## Competitive audits
 
-| Contest name                                                          | Platform  | Date ↓        | Rank      | Findings         |
-| --------------------------------------------------------------------- | --------- | ------------- | --------- | ---------------- |
-| [Alchemix V3](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a) | Cantina | May 2025 | Judging | Judging |
-| [Plaza Finance](https://audits.sherlock.xyz/contests/682)             | Sherlock  | January 2025  | 54 / 2450 | 3 High, 2 Medium |
-| [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix) | CodeHawks | December 2024 | 15 / 123  | 1 Medium, 1 Low  |
-| [Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)         | CodeHawks | October 2024  | 4 / 21    | 1 Low            |
-| [StakeLink](https://codehawks.cyfrin.io/c/2024-09-stakelink)          | CodeHawks | October 2024  | 29 / 69   | 1 High           |
+| Contest name                                                                         | Platform  | Date ↓        | Rank      | Findings         |
+| ------------------------------------------------------------------------------------ | --------- | ------------- | --------- | ---------------- |
+| [Alchemix V3](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a) | Cantina   | May 2025      | Judging   | Judging          |
+| [Plaza Finance](https://audits.sherlock.xyz/contests/682)                            | Sherlock  | January 2025  | 54 / 2450 | 3 High, 2 Medium |
+| [Alchemix Transmuter](https://codehawks.cyfrin.io/c/2024-12-alchemix)                | CodeHawks | December 2024 | 15 / 123  | 1 Medium, 1 Low  |
+| [Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)                        | CodeHawks | October 2024  | 4 / 21    | 1 Low            |
+| [StakeLink](https://codehawks.cyfrin.io/c/2024-09-stakelink)                         | CodeHawks | October 2024  | 29 / 69   | 1 High           |
 
 ## Private audits
 
-| Audited Company                       | Date       | Report              |
-| ------------------------------------- | ---------- | ------------------- |
+| Audited Company                       | Date       | Report             |
+| ------------------------------------- | ---------- | ------------------ |
+| Mystic Finance (from KannAudits)      | June 2025  | TBA                |
 | [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in June_ |
 
 ## Findings I'm proud of
