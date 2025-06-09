@@ -2,19 +2,19 @@
 
 I am an independant Security Researcher in Solidity. While I entered in the field as an SR, I am also really interested in the Smart Contract Developer side of things, and have a few plans of projects to build. I am always looking for new opportunities, may it be a job opening, private security audit...
 
-## Contact informations
+## Contact Informations
 
-### Social media:
+### Social Media
 
 - X: [0xStrapontin](https://x.com/0xStrapontin)
 - Discord: strapontin
 
-### Competitive platforms
+### Competitive Platforms
 
 - CodeHawks profile: https://profiles.cyfrin.io/u/strapontin
 - Sherlock profile: https://audits.sherlock.xyz/watson/Strapontin
 
-## Competitive audits
+## Competitive Audits
 
 | Contest name                                                                         | Platform  | Date ↓        | Rank      | Findings         |
 | ------------------------------------------------------------------------------------ | --------- | ------------- | --------- | ---------------- |
@@ -24,14 +24,14 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 | [Sablier Flow](https://codehawks.cyfrin.io/c/2024-10-sablier)                        | CodeHawks | October 2024  | 4 / 21    | 1 Low            |
 | [StakeLink](https://codehawks.cyfrin.io/c/2024-09-stakelink)                         | CodeHawks | October 2024  | 29 / 69   | 1 High           |
 
-## Private audits
+## Private Audits
 
 | Audited Company                       | Date       | Report             |
 | ------------------------------------- | ---------- | ------------------ |
-| Mystic Finance (from KannAudits)      | June 2025  | TBA                |
+| Mystic Finance (from KannAudits)      | June 2025  | [PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf)                |
 | [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in June_ |
 
-## Findings I'm proud of
+## Findings I'm Proud Of
 
 | Finding                                                                                     | Description                                                                                                                           | Reason                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
