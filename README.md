@@ -8,6 +8,7 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 
 - X: [0xStrapontin](https://x.com/0xStrapontin)
 - Discord: strapontin
+- Telegram: [Strapontin0x](https://t.me/Strapontin0x)
 
 ### Competitive Platforms
 
