@@ -4,15 +4,15 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 
 ## Contact informations
 
-### Social media :
+### Social media:
 
-- X : [0xStrapontin](https://x.com/0xStrapontin)
-- Discord : strapontin
+- X: [0xStrapontin](https://x.com/0xStrapontin)
+- Discord: strapontin
 
 ### Competitive platforms
 
-- CodeHawks profile : https://profiles.cyfrin.io/u/strapontin
-- Sherlock profile : https://audits.sherlock.xyz/watson/Strapontin
+- CodeHawks profile: https://profiles.cyfrin.io/u/strapontin
+- Sherlock profile: https://audits.sherlock.xyz/watson/Strapontin
 
 ## Competitive audits
 
