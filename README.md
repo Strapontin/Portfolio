@@ -29,7 +29,7 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 
 | Audited Company                       | Date       | Report             |
 | ------------------------------------- | ---------- | ------------------ |
-| Mystic Finance (from KannAudits)      | June 2025  | [PDF](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf)                |
+| Mystic Finance (from KannAudits)      | June 2025  | [Report 1](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf) [Report 2](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance_v2.pdf)               |
 | [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in June_ |
 
 ## Findings I'm Proud Of
