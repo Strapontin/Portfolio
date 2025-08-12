@@ -14,6 +14,7 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 
 - CodeHawks profile: https://profiles.cyfrin.io/u/strapontin
 - Sherlock profile: https://audits.sherlock.xyz/watson/Strapontin
+- Cantina profile: https://cantina.xyz/u/Strapontin
 
 ## Competitive Audits
 
