@@ -32,6 +32,10 @@ I am an independant Security Researcher in Solidity. While I entered in the fiel
 | Mystic Finance (from KannAudits)      | June 2025  | [Report 1](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf) [Report 2](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance_v2.pdf)               |
 | [Kugle](https://kugle.app/) (ongoing) | March 2025 | _Expected in August_ |
 
+## Bug Bounty
+
+Found 1 Low severity bug on Remedy's platform
+
 ## Findings I'm Proud Of
 
 | Finding                                                                                     | Description                                                                                                                           | Reason                                                                                                                                                                                                                          |
