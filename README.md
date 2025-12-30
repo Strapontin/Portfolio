@@ -51,7 +51,7 @@ Found 1 Low severity bug on Remedy's platform
 
 ### Web3SecurityClan Podcasts
 
-Alongside a community of security researchers, we've launched a podcast exploring security in Web3. You can catch our episodes on [Spotify](https://open.spotify.com/show/4ajBIQkNj1GcZGb6yci5K0) and [YouTube](https://www.youtube.com/watch?v=Dl3wEdrLcNA).
+Alongside a community of security researchers, we've launched a podcast exploring security in Web3. You can catch our episodes on [Spotify](https://open.spotify.com/show/4ajBIQkNj1GcZGb6yci5K0) and [YouTube](https://youtube.com/@web3securityclan?si=Pn18jujHzH-YdDoI).
 
 ### ERC-7702 TokenSaver
 
