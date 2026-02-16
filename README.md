@@ -1,6 +1,6 @@
 # About Strapontin
 
-I am an independant Security Researcher in Solidity. While I entered in the field as an SR, I am also really interested in the Smart Contract Developer side of things, and have a few plans of projects to build. I am always looking for new opportunities, may it be a job opening, private security audit...
+I am an independent Security Researcher specializing in Solidity. My main focus is smart contract security, and I continuously explore the latest protocols, attack surfaces, and defensive techniques. I am always open to new opportunities — whether it’s a collaborative audit, a job position, or a private security review.
 
 ## Contact Informations
 
