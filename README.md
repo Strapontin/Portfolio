@@ -2,6 +2,8 @@
 
 I am an independent Security Researcher specializing in Solidity. My main focus is smart contract security, and I continuously explore the latest protocols, attack surfaces, and defensive techniques. I am always open to new opportunities — whether it’s a collaborative audit, a job position, or a private security review.
 
+I worked as an intern Security Researcher at Nethermind from April to July 2026, where I audited different kinds of codebases in Solidity, Solana and Cairo.
+
 ## Contact Informations
 
 ### Social Media
