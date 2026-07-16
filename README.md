@@ -1,8 +1,8 @@
 # About Strapontin
 
-I am an independent Security Researcher specializing in Solidity. My main focus is smart contract security, and I continuously explore the latest protocols, attack surfaces, and defensive techniques. I am always open to new opportunities — whether it’s a collaborative audit, a job position, or a private security review.
+Smart Contract **Security Researcher** and former full-stack software engineer with 7+ years of software development experience and 2.5 years specializing in **Web3 security**. Experienced in securing protocols across the **Solidity**, **Solana**, **Move**, and **Cairo** ecosystems through over **20 public and private** audits and code reviews, identifying critical and high-severity vulnerabilities across a **broad range of DeFi systems**. Combines **offensive security research**, secure development practices, PoC creation, and **AI-assisted analysis** techniques with a strong engineering background to help teams build secure protocols and products.
 
-I worked as an intern Security Researcher at Nethermind from April to July 2026, where I audited different kinds of codebases in Solidity, Solana and Cairo.
+During my tenure as an intern Security Researcher at **Nethermind** (April–July 2026), I conducted security audits on **cross-protocol integrations**, **bridges**, and **prediction markets** across the **Solidity**, **Solana**, and **Cairo** ecosystems.
 
 ## Contact Informations
 
