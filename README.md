@@ -36,7 +36,7 @@ During my tenure as an intern Security Researcher at **Nethermind** (April–Jul
 | PetCoin (from Hashlock)          | January 2025  | [Report](./reports/Petcoin_Hashlock.pdf)                                                                                                                                                                             |
 | Nexalo (from Zealynx)            | December 2025 | [Report](./reports/Nexalo_Report.pdf)                                                                                                                                                                                |
 | Cometh - Louis Contracts         | November 2025 | [Report](./reports/Cometh-LouisContracts.pdf)                                                                                                                                                                        |
-| Mystic Finance (from KannAudits) | June 2025     | [Report 1](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf) [Report 2](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance_v2.pdf) |
+| Mystic Finance (from KannAudits) | June 2025     | [Report 1](./reports/Mystic%20Finance.pdf) [Report 2](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance_v2.pdf) |
 | [Kugle](https://kugle.app/)      | March 2025    | [Report](./reports/Kugle-2025.pdf)                                                                                                                                                                                   |
 
 ## First Flight In Non-Solidity
