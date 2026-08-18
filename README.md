@@ -69,3 +69,11 @@ I built [`TokenSaver`](https://github.com/Strapontin/ERC-7702-TokenSaver), a sma
 When I first started learning Solidity, I wanted a fun way to put my new skills into practice, so I began building a small NFT collection game called Periodic Elements Collection. What started as an experiment quickly grew into a side project I still return to whenever I find the time.
 
 My next steps are to design a front-end interface, deploy the project on a testnet, and eventually run a full security audit before launching it on a live blockchain. It’s been a great way to blend creativity with technical growth while exploring how NFTs can gamify learning.
+
+### EthGlobal 2026 Hackathon
+
+During the ETHGlobal 2026 hackathon, I engineered the core smart contract infrastructure for AdFlow, a decentralized marketplace designed to bridge advertisers and publishers through autonomous AI agents. 
+
+The system leverages AI agents to dynamically negotiate ad placements, verify campaign performance, and execute payments on-chain without intermediaries. My contribution focused on building the trustless settlement layer.
+
+Repository: https://github.com/Strapontin/eth-global-2026-ad-flow
