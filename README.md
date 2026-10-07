@@ -54,7 +54,7 @@ Found 1 Low severity bug on Remedy's platform
 
 ### Web3SecurityClan Podcasts
 
-Alongside a community of security researchers, we've launched a podcast exploring security in Web3. You can watch our episodes on [Spotify](https://open.spotify.com/show/4ajBIQkNj1GcZGb6yci5K0) and [YouTube](https://youtube.com/@web3securityclan?si=Pn18jujHzH-YdDoI).
+Alongside a community of security researchers, we've launched a podcast exploring security in Web3, where I host some of the episodes. You can watch our episodes on [Spotify](https://open.spotify.com/show/4ajBIQkNj1GcZGb6yci5K0) and [YouTube](https://youtube.com/@web3securityclan?si=Pn18jujHzH-YdDoI).
 
 You can follow me on [X](https://x.com/0xStrapontin) to know when the next episodes will be available.
 
